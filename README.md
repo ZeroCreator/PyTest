@@ -1,7 +1,8 @@
-##Установка pytest
+## Установка pytest
 
-pip install -U pytest
+    pip install -U pytest
 
-####Узнать версию
+#### Узнать версию
 
-pytest --version
+    pytest --version
+
